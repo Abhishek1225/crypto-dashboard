@@ -7,7 +7,7 @@
 Clone the repository on your local machine with the command below in your terminal, and cd into the **CoinCex**
 
 ```bash
-https://github.com/reddyarun59/Coincex.git
+https://github.com/Abhishek1225/Coincex.git
 
 cd Coincex
 ```
